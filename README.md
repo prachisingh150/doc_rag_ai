@@ -2,8 +2,6 @@
 
 This folder contains the project from the visible YouTube tutorial:
 
-Source video: https://youtu.be/QPNxk7K7VNE
-Official code folder used: https://github.com/SIDDHANTSAXENA2004/15-days-python-master-course/tree/main/day%2014
 
 The clickable YouTube link in the message pointed to a different medical chatbot video, but the visible video title is the RAG chatbot tutorial. I extracted the RAG chatbot project because it matches the visible link and this folder name.
 
