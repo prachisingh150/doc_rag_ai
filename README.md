@@ -1,11 +1,5 @@
 # Complete RAG Chatbot Project Guide
-
-This folder contains the project from the visible YouTube tutorial:
-
-
-The clickable YouTube link in the message pointed to a different medical chatbot video, but the visible video title is the RAG chatbot tutorial. I extracted the RAG chatbot project because it matches the visible link and this folder name.
-
-## What The Project Does
+ What The Project Does
 
 This is a full-stack document chatbot.
 
